@@ -43,6 +43,7 @@
     padding: 2rem 4rem 2rem 4rem;
     display: flex;
     border-radius: 12px;
+    min-width: 440px;
     flex-direction: column;
   }
   
